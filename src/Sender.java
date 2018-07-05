@@ -52,7 +52,7 @@ public class Sender {
                 break;
             }
          }
-         System.out.println("File has been sent.");
+         System.out.println("File has been sent successfully.");
         }
     }
 
